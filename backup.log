@@ -1,0 +1,25 @@
+Starting MongoDB backup: 2026-10-09-1200
+2026-10-09T12:00:01.766+0530	writing `parlour-db.bills` to "archive `/root/mongodb-git-backup/backups/2026-10-09-1200/parlour-db.archive.gz`"
+2026-10-09T12:00:01.770+0530	writing `parlour-db.products` to "archive `/root/mongodb-git-backup/backups/2026-10-09-1200/parlour-db.archive.gz`"
+2026-10-09T12:00:01.780+0530	writing `parlour-db.customerrecords` to "archive `/root/mongodb-git-backup/backups/2026-10-09-1200/parlour-db.archive.gz`"
+2026-10-09T12:00:01.782+0530	writing `parlour-db.notifications` to "archive `/root/mongodb-git-backup/backups/2026-10-09-1200/parlour-db.archive.gz`"
+2026-10-09T12:00:02.016+0530	done dumping `parlour-db.notifications` (186 documents)
+2026-10-09T12:00:02.016+0530	writing `parlour-db.customers` to "archive `/root/mongodb-git-backup/backups/2026-10-09-1200/parlour-db.archive.gz`"
+2026-10-09T12:00:02.284+0530	done dumping `parlour-db.customerrecords` (216 documents)
+2026-10-09T12:00:02.285+0530	writing `parlour-db.counters` to "archive `/root/mongodb-git-backup/backups/2026-10-09-1200/parlour-db.archive.gz`"
+2026-10-09T12:00:02.636+0530	done dumping `parlour-db.products` (225 documents)
+2026-10-09T12:00:02.636+0530	writing `parlour-db.orders` to "archive `/root/mongodb-git-backup/backups/2026-10-09-1200/parlour-db.archive.gz`"
+2026-10-09T12:00:02.650+0530	done dumping `parlour-db.counters` (24 documents)
+2026-10-09T12:00:02.650+0530	writing `parlour-db.users` to "archive `/root/mongodb-git-backup/backups/2026-10-09-1200/parlour-db.archive.gz`"
+2026-10-09T12:00:02.695+0530	done dumping `parlour-db.customers` (119 documents)
+2026-10-09T12:00:02.695+0530	writing `parlour-db.deliveryboys` to "archive `/root/mongodb-git-backup/backups/2026-10-09-1200/parlour-db.archive.gz`"
+2026-10-09T12:00:02.720+0530	done dumping `parlour-db.bills` (12428 documents)
+2026-10-09T12:00:02.720+0530	writing `parlour-db.branches` to "archive `/root/mongodb-git-backup/backups/2026-10-09-1200/parlour-db.archive.gz`"
+2026-10-09T12:00:03.046+0530	done dumping `parlour-db.orders` (24 documents)
+2026-10-09T12:00:03.046+0530	writing `parlour-db.coupons` to "archive `/root/mongodb-git-backup/backups/2026-10-09-1200/parlour-db.archive.gz`"
+2026-10-09T12:00:03.081+0530	done dumping `parlour-db.users` (8 documents)
+2026-10-09T12:00:03.081+0530	writing `parlour-db.otps` to "archive `/root/mongodb-git-backup/backups/2026-10-09-1200/parlour-db.archive.gz`"
+2026-10-09T12:00:03.082+0530	done dumping `parlour-db.otps` (0 documents)
+2026-10-09T12:00:03.082+0530	done dumping `parlour-db.branches` (3 documents)
+2026-10-09T12:00:03.087+0530	done dumping `parlour-db.deliveryboys` (3 documents)
+2026-10-09T12:00:03.124+0530	done dumping `parlour-db.coupons` (2 documents)
